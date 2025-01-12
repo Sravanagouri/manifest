@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: sravanidockerhub123/kubernetes:kubeimage
+        image: sravanidockerhub123/gouri:zomato
         ports:
         - containerPort: 3000   # Use port 3000
 
